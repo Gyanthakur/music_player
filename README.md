@@ -54,3 +54,16 @@ Thank you for considering contributing to the Music Clone project! Your contribu
 Thank you for your contribution! Your efforts are valuable in making the Music Clone project more visually appealing and user-friendly. Happy coding! 🚀
 
 **Note:** Always refer to the specific project's guidelines and code of conduct for any additional instructions or requirements regarding contributions.
+
+
+# also wathch 
+
+
+
+- [https://github.com/Gyanthakur/music_player](https://github.com/Gyanthakur/music_player)
+- [https://github.com/Gyanthakur/snakegame.github.io](https://github.com/Gyanthakur/snakegame.github.io)
+- [https://github.com/Gyanthakur/portfolio-gps](https://github.com/Gyanthakur/portfolio-gps)
+- [https://github.com/Gyanthakur/GFG_POTD](https://github.com/Gyanthakur/GFG_POTD)
+- [https://github.com/Gyanthakur/TextUtils](https://github.com/Gyanthakur/TextUtils)
+- [https://github.com/Gyanthakur/Dev_Profiles](https://github.com/Gyanthakur/Dev_Profiles)
+
